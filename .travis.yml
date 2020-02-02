@@ -1,3 +1,4 @@
 language: php
 php:
  - nightly
+script: php index.php
